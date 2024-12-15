@@ -64,7 +64,7 @@ Steps to Run:
 
 1. Clone the repository:
 
-git clone https://github.com/Patil-Nitish/Password-Manager.git
+git clone https://github.com/Patil-Nitish/SecPass.git
 cd Password-Manager
 
 
