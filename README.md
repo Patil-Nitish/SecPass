@@ -110,5 +110,5 @@ Contributions are welcome! Feel free to fork the repository, raise issues, or su
 
 🌐 Connect
 
-📫 Email: nitishp2030@gmail.com
+📫 Email: nitishp1929@gmail.com
 💼 LinkedIn: Nitish Patil
